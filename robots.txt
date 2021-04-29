@@ -1,3 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
+# https://sham-e-ansari.github.io
 User-agent: *
 Disallow:
